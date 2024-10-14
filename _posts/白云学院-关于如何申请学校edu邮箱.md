@@ -100,17 +100,21 @@ math:
 
 
 
-#### Apple
+### Apple
 
 TODO
 
-##### apple music
+#### apple music
 
 TODO
 
-#### Microsoft
+### Microsoft
+#### MS365
+#### Onedrive
 
 ### Github学生包
+
+作者：[西行妖](https://my.toho.red/)
 
 如果你是计算机相关专业的学生，而你又申请了edu邮箱，那么你千万不能错过这项福利，因为你从这里能薅到的羊毛比本页面所有地方加起来还要多。不信？那么我来简单列一个表：
 
@@ -122,22 +126,18 @@ TODO
 
 这还只是一小部分，里面还有很多计算机专业学生必不可少的福利没有列出来，但光是这些应该足够让你心动了。那么心动不如行动，下面开始进行申请教程：
 
-1.打开https://education.github.com，点击Join Github Education进入申请页面。
+1. 打开[education.github.com](https://education.github.com)，点击Join Github Education进入申请页面。
 ![图片](../image/edu邮箱/github1.png)
 
-2.拉到最下面，输入Guangdong Baiyun University进行搜索，如果你的GitHub账号没有绑定你的edu邮箱，就会提示你进行绑定验证，点击Add a email address进行添加。
+2. 拉到最下面，输入Guangdong Baiyun University进行搜索，如果你的GitHub账号没有绑定你的edu邮箱，就会提示你进行绑定验证，点击Add a email address进行添加。
 ![图片](../image/edu邮箱/github2.png)
 
-3.在下面的Add email address输入你的edu邮箱，并根据指示进行验证。
+3. 在下面的Add email address输入你的edu邮箱，并根据指示进行验证。
 
-4.验证成功，再回到这个页面就会发现Continue按键绿了，点击即可进入填表页面，如实填写就行。  
+4. 验证成功，再回到这个页面就会发现Continue按键绿了，点击即可进入填表页面，如实填写就行。  
 
 **这里有一个坑要注意，在填这个表时必须关闭一切代理，否则会直接以spambot为理由拒绝你的这次申请。**
 
 在填完表后点击提交，如果一切顺利的话几分钟后就会收到邮件提醒你申请成功。
 
-5.Enojy yourself :)
-
-##### MS365
-
-##### Onedrive
+5. Enojy yourself :)
